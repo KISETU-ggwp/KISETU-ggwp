@@ -57,6 +57,14 @@
 
 ---
 
+<p align="center">
+  <i>"Technology should empower everyone, without exception."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0b3d2e&height=100&section=footer" width="100%" />
+</p>
+
 ## 📫 Contact & Links
 
 <p align="center">
