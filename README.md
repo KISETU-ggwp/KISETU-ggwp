@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2D4F3C&height=200&section=header&text=Pioneering%20Assistive%20Technology&fontSize=45&animation=fadeIn&fontAlignY=40&desc=Opening%20the%20New%20Frontier%20with%20AI%20%26%20AR&descAlignY=60&descSize=20" width="100%" />
-</p>
+# 🌿 Pioneering Assistive Technology
+> **Connecting Potential through Science & Technology**
 
 <div align="center">
   <h1>Connecting Potential through Science</h1>
