@@ -61,17 +61,6 @@
 
 ---
 
-<h3 align="center">⚡ Engineering Activity</h3>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KISETU-ggwp&show_icons=true&bg_color=2D4F3C&title_color=90ee90&icon_color=90ee90&text_color=ffffff&border_color=556B2F" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISETU-ggwp&layout=compact&bg_color=2D4F3C&title_color=90ee90&text_color=ffffff&border_color=556B2F" width="48%" />
-    <br />
-    <img src="https://streak-stats.demolab.com?user=KISETU-ggwp&background=2D4F3C&fire=90ee90&ring=90ee90&currStreakLabel=90ee90" width="98%" />
-  </div>
-  
-<br />
-
 <p align="right">
   <i>"Technology should empower everyone, without exception."</i><br />
   <b>KISETU-ggwp / Assistive Tech Explorer</b>
