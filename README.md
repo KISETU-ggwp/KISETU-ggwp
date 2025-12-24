@@ -47,12 +47,12 @@
 ## 📊 GitHub Analytics (Real-time Synapse)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=あなたのユーザー名&show_icons=true&theme=highcontrast&bg_color=0b3d2e&title_color=90ee90&icon_color=90ee90&text_color=ffffff&border_color=2e8b57" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのユーザー名&layout=compact&theme=highcontrast&bg_color=0b3d2e&title_color=90ee90&text_color=ffffff&border_color=2e8b57" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KISETU-ggwp&show_icons=true&theme=highcontrast&bg_color=0b3d2e&title_color=90ee90&icon_color=90ee90&text_color=ffffff&border_color=2e8b57" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISETU-ggwp&layout=compact&theme=highcontrast&bg_color=0b3d2e&title_color=90ee90&text_color=ffffff&border_color=2e8b57" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=あなたのユーザー名&theme=highcontrast&background=0b3d2e&fire=90ee90&ring=90ee90&currStreakLabel=90ee90" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KISETU-ggwp&theme=highcontrast&background=0b3d2e&fire=90ee90&ring=90ee90&currStreakLabel=90ee90" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ## 📫 Contact & Links
 
 <p align="center">
-  <a href="https://qiita.com/あなたのQiitaユーザー名">
+  <a href="https://qiita.com/KISETU">
     <img src="https://img.shields.io/badge/Qiita-55c500?style=for-the-badge&logo=qiita&logoColor=white" />
   </a>
 </p>
