@@ -2,25 +2,24 @@
 > **Connecting Potential through Science & Technology**
 
 <div align="center">
-  <h1>Connecting Potential through Science</h1>
-  <p><b>筑波技術大学大学院 産業技術学専攻 | 支援技術学研究者</b></p>
+  
+### 筑波技術大学大学院 産業技術学専攻
+**AI Engineer / Research Fellow in Assistive Technology**
+
+---
+
+| 🤟 手話AI (Sign Language AI) | 👓 AR Technology | 🤖 Machine Learning |
+| :--- | :--- | :--- |
+| **手話の壁をAIで越える** | **現実を拡張し情報を届ける** | **支援の個別最適化** |
+
 </div>
 
-<br />
+---
 
-<table align="center">
-  <tr border="none">
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/-Sign%20Language%20AI-556B2F?style=for-the-badge&logo=openai&logoColor=white" /><br />
-      <sub>手話の壁をAIで越える</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/-AR%20Technology-556B2F?style=for-the-badge&logo=unity&logoColor=white" /><br />
-      <sub>現実を拡張し情報を届ける</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/-Machine%20Learning-556B2F?style=for-the-badge&logo=python&logoColor=white" /><br />
-      <sub>機械学習による支援の個別化</sub>
-    </td>
-  </tr>
-</table>
+### 🧠 Synaptic Mission
+私は「支援技術学」という未踏の分野において、**AI・AR・機械学習**を当事者視点から組み合わせ、ろう・難聴者を含むすべての人にテクノロジーの恩恵を届けるための研究・開発を行っています。
+
+- **Focus:** Accessibility, Human-Computer Interaction, AI for Social Good
+- **Stack:** Python / C# / Flask / Google Cloud
+
+---
